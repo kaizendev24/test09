@@ -117,7 +117,7 @@
 
 .ex_card{
     background: var(--bg-shade);
-    
+    padding:10px;
 }
 .card.ex_card:before {
     content: "";
